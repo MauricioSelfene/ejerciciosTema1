@@ -19,6 +19,8 @@ public class tiposDatos {
         boolean variable0 = false;
         boolean variable1 = true;
 
+        char vriableCaracter = 'a';
+
         String cadenaVariable = "Esto es una cadena que varia";
     }
 }
